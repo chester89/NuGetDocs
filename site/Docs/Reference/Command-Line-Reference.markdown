@@ -204,7 +204,7 @@ Specify the id and optionally the version of the package to install. If a path t
     
     nuget install packages.config
     
-    nuget install ninject -o c:\foo
+    nuget install ninject -o c:\\folder\\name
 
 
 
